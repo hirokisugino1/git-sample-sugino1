@@ -2,4 +2,8 @@ Hiroki Sugino
 Hiroki Sugino2desu
 杉野
 猫
+<<<<<<< HEAD
+犬
+=======
 ウサギ
+>>>>>>> develop
